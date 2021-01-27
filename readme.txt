@@ -7,3 +7,4 @@ Git is a friend
 Git has a mutable index called stage.
 444
 555
+Creating a new branch is quick.
